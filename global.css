@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --buttons-middle: "DM Sans";
+  
+    /* font sizes */
+    --buttons-middle-size: 18px;
+    --heading-h2-header-size: 58px;
+    --heading-h5-lead-size: 22px;
+    --heading-h3-title-size: 42px;
+    --text-paragraph-size: 16px;
+  
+    /* Colors */
+    --background-dark: #2f1893;
+    --colors-white: #fff;
+    --action-third: #e93a7d;
+    --colors-heading: #1e0e62;
+    --colors-text: rgba(21, 20, 57, 0.4);
+    --colors-grey: #ebeaed;
+    --action-primary: #25dac5;
+    --action-secondary: #482be7;
+    --socials-twitter: #1da1f2;
+  
+    /* Border radiuses */
+    --br-81xl: 100px;
+  }
+  

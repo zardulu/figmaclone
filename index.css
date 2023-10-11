@@ -1,0 +1,390 @@
+.placeholder1 {
+  border-radius: 10px;
+  background-color: var(--colors-white);
+}
+.placeholder,
+.placeholder1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.do-you-have,
+.sign-in {
+  position: absolute;
+  top: calc(50% + 229px);
+  line-height: 28px;
+  font-weight: 500;
+}
+.sign-in {
+  left: 69.15%;
+  color: var(--action-primary);
+  text-align: left;
+}
+.do-you-have {
+  left: 21.28%;
+}
+.rectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  border: none;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--socials-twitter);
+}
+.sign-up {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 69px);
+  line-height: 26px;
+  font-weight: 500;
+}
+.middle-fill {
+  position: absolute;
+  height: 8.33%;
+  width: 70.21%;
+  top: 74.83%;
+  right: 14.89%;
+  bottom: 16.83%;
+  left: 14.89%;
+  color: var(--colors-white);
+}
+.rectangle1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  border: none;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--action-secondary);
+}
+.sign-up1 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 28px);
+  line-height: 26px;
+  font-weight: 500;
+}
+.middle-fill1 {
+  position: absolute;
+  height: 8.33%;
+  width: 70.21%;
+  top: 56.33%;
+  right: 14.89%;
+  bottom: 35.33%;
+  left: 14.89%;
+  color: var(--colors-white);
+}
+.divider-icon {
+  height: 7.69%;
+  width: 43.77%;
+  top: 42.69%;
+  right: -0.3%;
+  bottom: 49.62%;
+  left: 56.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.divider-icon,
+.divider-icon1,
+.or {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.or {
+  top: calc(50% - 13px);
+  left: calc(50% - 9.5px);
+  line-height: 26px;
+  opacity: 0.9;
+}
+.divider-icon1 {
+  height: 7.69%;
+  width: 43.77%;
+  top: 42.69%;
+  right: 56.53%;
+  bottom: 49.62%;
+  left: -0.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.divider-or {
+  position: absolute;
+  height: 4.33%;
+  width: 69.79%;
+  top: 67.73%;
+  right: 15.43%;
+  bottom: 27.93%;
+  left: 14.79%;
+  font-size: var(--text-paragraph-size);
+}
+.checked {
+  position: absolute;
+  top: 0.4px;
+  left: 37px;
+  line-height: 26px;
+}
+.rectangle2 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background-color: var(--action-primary);
+}
+.check-icon,
+.on,
+.rectangle2 {
+  position: absolute;
+}
+.check-icon {
+  height: 33.33%;
+  width: 48.33%;
+  top: 35.83%;
+  right: 25.83%;
+  bottom: 30.83%;
+  left: 25.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.on {
+  height: 90.91%;
+  width: 9.06%;
+  top: 0;
+  right: 90.94%;
+  bottom: 9.09%;
+  left: 0;
+}
+.checkbox-checked {
+  position: absolute;
+  width: calc(100% - 205px);
+  top: 284px;
+  right: 135px;
+  left: 70px;
+  height: 26.4px;
+  text-align: left;
+  font-size: var(--text-paragraph-size);
+}
+#rectangle3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  border: 2px solid var(--colors-grey);
+  box-sizing: border-box;
+  mix-blend-mode: normal;
+}
+.your-email {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: 24px;
+  line-height: 26px;
+  font-weight: 500;
+}
+.middle-dark-outline,
+.middle-dark-outline1 {
+  position: absolute;
+  height: 8.33%;
+  width: 70.21%;
+  top: 34%;
+  right: 14.89%;
+  bottom: 57.67%;
+  left: 14.89%;
+  text-align: left;
+}
+.middle-dark-outline1 {
+  top: 22.33%;
+  bottom: 69.33%;
+}
+.sign-up2 {
+  position: absolute;
+  top: calc(50% - 252px);
+  left: 24.26%;
+  font-size: var(--heading-h3-title-size);
+  letter-spacing: -0.4px;
+  line-height: 52px;
+  color: var(--colors-heading);
+}
+.sign-up-form {
+  position: absolute;
+  height: 67.42%;
+  width: 33.57%;
+  top: 21.01%;
+  right: 15.36%;
+  bottom: 11.57%;
+  left: 51.07%;
+  text-align: center;
+  color: var(--colors-text);
+}
+.the-most-important {
+  position: absolute;
+  width: 85.01%;
+  top: 48.59%;
+  left: 0.7%;
+  line-height: 32px;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangle5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  border: none;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--action-third);
+}
+.sign-up3 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 47.5px);
+  line-height: 26px;
+  font-weight: 500;
+}
+.middle-fill2 {
+  position: absolute;
+  height: 10.08%;
+  width: 36.77%;
+  top: 89.92%;
+  right: 63.23%;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  font-size: var(--buttons-middle-size);
+}
+.twenty-five-awesome {
+  position: absolute;
+  height: 43.75%;
+  width: 99.3%;
+  top: 0;
+  left: 0.7%;
+  font-size: var(--heading-h2-header-size);
+  letter-spacing: -1px;
+  line-height: 70px;
+  display: inline-block;
+}
+.sign-up4,
+.text {
+  position: absolute;
+}
+.text {
+  height: 55.73%;
+  width: 30.5%;
+  top: 24.61%;
+  right: 54.57%;
+  bottom: 19.66%;
+  left: 14.93%;
+  font-size: var(--heading-h5-lead-size);
+}
+.sign-up4 {
+  top: calc(50% - 13px);
+  left: calc(50% - 39px);
+  line-height: 26px;
+  font-weight: 500;
+}
+.middle-fill3 {
+  position: absolute;
+  height: 100%;
+  width: 23.86%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 76.14%;
+  text-align: center;
+}
+.feedback {
+  position: absolute;
+  left: 52.68%;
+}
+.blog,
+.feedback,
+.prices {
+  top: calc(50% - 12.6px);
+  line-height: 26px;
+  font-weight: 500;
+}
+.blog {
+  position: absolute;
+  left: 38.97%;
+}
+.prices {
+  left: 22.47%;
+}
+.about,
+.menu,
+.prices {
+  position: absolute;
+}
+.about {
+  top: calc(50% - 12.6px);
+  left: 0;
+  line-height: 26px;
+  font-weight: 500;
+  opacity: 0.3;
+}
+.menu {
+  height: 100%;
+  width: 51.75%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 48.25%;
+}
+.startup-3 {
+  position: absolute;
+  top: -6px;
+  left: 2px;
+  letter-spacing: -0.29px;
+}
+.white {
+  position: absolute;
+  height: 47.5%;
+  width: 11.42%;
+  top: 22.5%;
+  right: 88.58%;
+  bottom: 30%;
+  left: 0;
+  text-align: center;
+  font-size: 24px;
+}
+.header-menu {
+  position: absolute;
+  height: 4.49%;
+  width: 69.43%;
+  top: 7.3%;
+  right: 15.36%;
+  bottom: 88.2%;
+  left: 15.21%;
+}
+.header-14 {
+  position: relative;
+  background-color: var(--background-dark);
+  width: 100%;
+  height: 890px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--buttons-middle-size);
+  color: var(--colors-white);
+  font-family: var(--buttons-middle);
+}
